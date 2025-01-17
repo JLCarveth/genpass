@@ -5,7 +5,7 @@
  *
  * Compile with: deno compile --allow-read --output genpass password_gen.ts
  * Good source of a wordlist if you aren't using /usr/share/dict is
- * the Ethereum wordlist (I'm not a cryptobro I swear)
+ * the Ethereum wordlist 
  * https://raw.githubusercontent.com/openethereum/wordlist/master/res/wordlist.txt
  */
 let wordlist = "";
